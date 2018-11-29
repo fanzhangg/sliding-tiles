@@ -1,4 +1,4 @@
-#Sliding Tile
+# Sliding Tile
 
 My implementation of a sliding tile game
 
@@ -9,6 +9,9 @@ My implementation of a sliding tile game
     - ADD: File testBoard.py
     - ADD: File testCaseSolvableJudge.py
     - ADD: README.md
+    
+- V1.0.1
+    - FIX: File README.md
     
 ## Contact
 - email: vanadiumzhang@gmail.com
