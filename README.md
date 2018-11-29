@@ -2,7 +2,7 @@
 
 My implementation of a sliding tile game
 
-## version
+## Version
 - V1.0.0
     - ADD: File Board.py
     - ADD: File case_solvable_judge.py
@@ -11,6 +11,9 @@ My implementation of a sliding tile game
     - ADD: README.md
     
 - V1.0.1
+    - FIX: File README.md
+    
+- V1.0.2
     - FIX: File README.md
     
 ## Contact
