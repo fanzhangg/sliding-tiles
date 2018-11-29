@@ -16,6 +16,9 @@ My implementation of a sliding tile game
 - V1.0.2
     - FIX: File README.md
     
+- V1.0.3
+    - FIX: Change the name Board.py to fit the python convention
+    
 ## Contact
 - email: vanadiumzhang@gmail.com
 - personal homepage: https://github.com/fanzhangg
